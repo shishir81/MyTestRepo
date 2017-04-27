@@ -1,0 +1,6 @@
+
+This is Version2 - After the file has been staged.
+WSO role names
+EC2 - "App":"wso"
+Other resources should have name starting with "wso"
+

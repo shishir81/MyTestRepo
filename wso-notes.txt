@@ -1,0 +1,5 @@
+
+WSO role names
+EC2 - "App":"wso"
+Other resources should have name starting with "wso"
+

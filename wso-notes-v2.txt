@@ -1,4 +1,5 @@
 
+This is version3 - commit only and issue Pull Request from Github
 This is Version2 - After the file has been staged.
 WSO role names
 EC2 - "App":"wso"
